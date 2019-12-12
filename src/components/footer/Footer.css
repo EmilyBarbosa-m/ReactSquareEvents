@@ -1,0 +1,39 @@
+footer {
+    background-color: #797979;
+    
+}
+
+footer > div > ol {
+    display: flex;
+    list-style: none;
+}
+
+footer > div > ol > li {
+    padding-left: 50px;
+    color: #fff;
+    font-size: 1em;
+    margin-top: 25px;
+}
+
+footer ol a{
+    text-decoration: none;
+    color: #fff;
+}
+
+footer > div {
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.icones_footer_home{
+    font-size: 1.5em;
+    color:  #fff;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.icones_footer_home, i, a{
+    /* margin-left: -89.3em; 
+    color: #fff;
+}
